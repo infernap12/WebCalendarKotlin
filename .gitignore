@@ -1,0 +1,22 @@
+# course config files
+course-info.yaml
+course-remote-info.yaml
+*/lesson-info.yaml
+*/task-info.yaml
+
+# gradle
+.gradle/
+build
+
+# topics
+Topics
+
+# idea config
+.idea
+
+# old stages
+/Web Calendar (Kotlin)/*
+!/Web Calendar (Kotlin)/task/
+/Web Calendar (Kotlin)/task/*
+!/Web Calendar (Kotlin)/task/src
+
